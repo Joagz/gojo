@@ -1,10 +1,10 @@
 # Initialization
 
-First, give execution permissions to `install.sh`
+First, give execution permissions to `build.sh`
 ```shell
-sudo chmod -x ./install.sh
+sudo chmod -x ./build.sh
 ```
-Then execute `./install.sh`
+Then execute `./build.sh`
 
 Run the following shell commands in `./gojo` 
 ```shell
